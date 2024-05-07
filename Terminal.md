@@ -25,13 +25,13 @@
      - docker
      - extract
      - git
-     - thefuck
      - web-search
    - Plugins to install
      - [auto-color-ls](https://github.com/gretzky/auto-color-ls)
      - [autojump](https://github.com/wting/autojump)
      - [git-open](https://github.com/paulirish/git-open)
      - [fzf](https://github.com/junegunn/fzf)
+     - [thefuck](https://github.com/nvbn/thefuck)
      - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions?tab=readme-ov-file)
      - [zsh-bat](https://github.com/fdellwing/zsh-bat)
      - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting?tab=readme-ov-file)
